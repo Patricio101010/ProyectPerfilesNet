@@ -1,0 +1,38 @@
+﻿@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,700&display=swap');
+
+
+
+button:focus, input:focus, textarea:focus {
+    outline: 0;
+}
+
+.skill_wrapper {
+    padding: 80px 0;
+    background: #1c84cc;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+.head_text_modal {
+    font-size: 45px;
+    font-weight: 700;
+    color: #000000;
+    margin-bottom: 70px;
+    color: #ffffff;
+}
+
+.box {
+    text-align: center;
+    padding: 40px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0 50px 100px -20px, rgba(0, 0, 0, 0.3) 0 30px 60px -30px;
+    margin-bottom: 25px;
+}
+
+.circlechart {
+    font-weight: 700;
+}
+
+.circle-chart__percent, .circle-chart__subline {
+    color: #ffffff;
+}

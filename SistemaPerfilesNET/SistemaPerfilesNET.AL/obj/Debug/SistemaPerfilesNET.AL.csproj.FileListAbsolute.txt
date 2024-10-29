@@ -1,0 +1,20 @@
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.AssemblyReference.cache
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\bin\Debug\SistemaPerfilesNET.AL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.AssemblyReference.cache
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\bin\Debug\NLog.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\bin\Debug\NLog.xml
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.AL\obj\Debug\SistemaPerfilesNET.AL.csproj.CopyComplete

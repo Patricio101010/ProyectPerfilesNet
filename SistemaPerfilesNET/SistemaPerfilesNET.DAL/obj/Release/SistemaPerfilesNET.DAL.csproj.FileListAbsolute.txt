@@ -1,0 +1,27 @@
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.AssemblyReference.cache
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CopyComplete
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\Perfiles\nueva version\Sistema Perfiles Version final\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.dll
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.pdb
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.AssemblyReference.cache
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CoreCompileInputs.cache
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CopyComplete
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.dll
+E:\pmorales\Dim\STCapital\Repositorio\BackOffice\Perfiles\SistemaPerfilesNET.UI\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.DAL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\bin\Release\SistemaPerfilesNET.AL.pdb
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.AssemblyReference.cache
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CoreCompileInputs.cache
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.csproj.CopyComplete
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.dll
+E:\Nueva carpeta (2)\SistemaPerfilesNET\SistemaPerfilesNET.DAL\obj\Release\SistemaPerfilesNET.DAL.pdb

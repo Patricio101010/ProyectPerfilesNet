@@ -1,0 +1,89 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="SistemaPerfilesNET.UI.SiteMaster" %>
+
+<!DOCTYPE html>
+<html lang="es">
+<head runat="server">
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8; charset=ISO-8859-1" />
+    <meta http-equiv="X-UA-Compatible" content="IE=EDGE;chrome=1;" />
+    <title>Portal seguridad | <%: Page.Title %></title>
+
+    <!-- Style personalizado -->
+    <link href="<%=Page.ResolveUrl("~/App_Themes/AppTemas/Css/CssPrincipal.css")%>" rel="stylesheet" />
+    <link href="<%=Page.ResolveUrl("~/App_Themes/AppTemas/Css/CssProgress.css")%>" rel="stylesheet" />
+
+    <!-- Bootraps 5 -->
+    <link href="<%=Page.ResolveUrl("~/Content/bootstrap.min.css")%>" rel="stylesheet">
+
+    <!-- JQUERY 3.7 -->
+    <script src="<%=Page.ResolveUrl("~/Scripts/jquery-3.7.0.js")%>"></script>
+
+    <style>
+        .modalBackground {
+            background-color: gray;
+            filter: alpha(opacity=70);
+            opacity: 0.7;
+        }
+    </style>
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body class="text-center">
+    <form id="form1" runat="server">
+
+        <asp:ScriptManager ID="ScriptManager1" runat="server" ScriptMode="Release" EnableScriptGlobalization="true">
+        </asp:ScriptManager>
+
+        <div class="container-fluid px-5 py-4">
+            <div class="row justify-content-center">
+                <div class="col-xl-10" style="background: linear-gradient( #18517d 20%, 50%,#2888d2 80%); border-radius: 10px;">
+                    <div class="px-4 py-4">
+                        <h1 class="h2 fw-light text-center " style="color: white">
+                            <asp:Label ID="lblTitulo" runat="server" Width="700px" Text="Administración de sistemas"></asp:Label>
+                        </h1>
+                    </div>
+                </div>
+
+
+                <div class="col-xl-10" style="height: 740px; border: solid; border-color: #2888d2; border-width: 1px; border-radius: 10px; margin-top: 20px">
+                    <div class="row col-12" style="margin-top: 30px;">
+                        <asp:ContentPlaceHolder ID="MainContent" runat="server">
+                        </asp:ContentPlaceHolder>
+                    </div>
+                </div>
+
+                <div class="col-xl-10 d-flex">
+                    <div class="col-6">
+                        <div class="py-2 d-flex flex-row">
+                            <button id="BtnVolver" runat="server" class="btn btn-outline-secondary" onserverclick="BtnVolver_ServerClick" style="border: none; color: #081a28;" type="reset">
+                                <p class="h4 fw-normal">
+                                    <asp:Image ID="IconImagen" runat="server" ImageUrl="~/App_Themes/AppTemas/Iconos/atras circular.png" Width="64" Height="64" />
+                                </p>
+                            </button>
+                        </div>
+                    </div>
+                    <div class="col-6">
+                        <div class="py-2 d-flex flex-row-reverse">
+                            <button id="BtnLogOUT" runat="server" class="btn btn-outline-secondary" onserverclick="BtnLogOUT_ServerClick" style="border: none; color: #081a28;" type="reset">
+                                <p class="h4 fw-normal">
+                                    <asp:Image ID="Image1" runat="server" ImageUrl="~/App_Themes/AppTemas/Iconos/cerrar-sesion.png" Width="64" Height="64" />
+                                </p>
+                            </button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </form>
+
+    <script src="<%=Page.ResolveUrl("~/Scripts/bootstrap.bundle.js")%>"></script>
+    <script src="<%=Page.ResolveUrl("~/Scripts/bootstrap.min.js")%>"></script>
+
+
+</body>
+</html>
+
+<asp:ContentPlaceHolder ID="script" runat="server">
+</asp:ContentPlaceHolder>
